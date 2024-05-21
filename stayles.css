@@ -201,7 +201,6 @@ footer {
   display: block;
   margin: 0 auto;
   margin-bottom: 50px;
-
 }
 .gift__text {
   font-family: Roboto;
@@ -246,8 +245,15 @@ footer {
   margin-bottom: 50px;
 }
 .footer1 {
+  padding-top: 50px;
   text-align: center;
   color: #000 #888888;
+}
+.footer1 p {
+  color: #ffffff;
+}
+.footer1 a {
+  color: #ffffff;
 }
 .optimization {
   position: relative;
